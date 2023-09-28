@@ -13,9 +13,9 @@
   <h2>Для работы приложения необходимо:</h2>
       <li><a href="https://www.postgresql.org/download/">Database PostgresSQL</a></li>
       <li><a href="https://www.oracle.com/java/technologies/downloads/">Java 11</a>( или более поздней версии) </li> 
-       <h3>Запуск приложения:</h3>
+   <h2>Запуск приложения:</h2>
        <li>Запустить dump-файл на своей локальной postgres БД</li>
 <li>Изменить настройки подключения к локальной БД в файле application.properties</li>
 <li>Запустить файл FinalProjectApplication.java</li>
-<h2>Cкриншот структуры базы данных:</h2>
+   <h2>Cкриншот структуры базы данных:</h2>
 <a><img src="DB.jpg" width="600" height="300"></a>
