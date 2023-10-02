@@ -44,7 +44,14 @@ public class OperationResult {
         return this;
     }
 
+    public String getOperationError() {
+        return operationError;
+    }
 
+    public OperationResult setOperationError(String operationError) {
+        this.operationError = operationError;
+        return this;
+    }
 
     @Override
     public boolean equals(Object o) {
